@@ -1,6 +1,6 @@
 {
   "name": "cyberchef",
-  "version": "9.27.6",
+  "version": "9.28.0",
   "description": "The Cyber Swiss Army Knife for encryption, encoding, compression and data analysis.",
   "author": "n1474335 <n1474335@gmail.com>",
   "homepage": "https://gchq.github.io/CyberChef",
@@ -98,6 +98,7 @@
     "browserify-zlib": "^0.2.0",
     "bson": "^4.2.2",
     "buffer": "^6.0.3",
+    "cbor": "^5.0.1",
     "chi-squared": "^1.1.0",
     "codepage": "^1.14.0",
     "core-js": "^3.8.3",
