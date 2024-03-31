@@ -14,6 +14,8 @@
             "From Charcode",
             "To Decimal",
             "From Decimal",
+            "To Float",
+            "From Float",
             "To Binary",
             "From Binary",
             "To Octal",
@@ -153,7 +155,8 @@
             "Typex",
             "Lorenz",
             "Colossus",
-            "SIGABA"
+            "SIGABA",
+            "XXTEA"
         ]
     },
     {
